@@ -1,0 +1,4 @@
+git add -----> adds files to the repository
+git status --> checks the status of the repository
+git push ----> Check objects
+git commit --> Leaves comments on the changes made
