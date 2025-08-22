@@ -1,0 +1,15 @@
+git add -----> adds files to the repository
+git status --> checks the status of the repository
+git push ----> Check objects
+git commit --> Leaves comments on the changes made
+
+
+
+mkdir -----------------> make directory
+cd --------------------> change directory
+    cd - returns you to previous folder
+    cd.. moves you one folder above
+ls --------------------> shows the content of the current directory
+
+g++ file_name.cpp -----> compiles the program
+./a.out ---------------> runs file
