@@ -11,12 +11,15 @@ int main(void){
     // Define a distribution
     std::uniform_int_distribution<int> dist(1, 100);
 
+    // Generate and print 50 random numbers
     int sum = 0;
     for(int i = 0; i < 50; i++){
         int x = dist(eng);
         std::cout<< x << std::endl;
         sum += x;
     }
+
+    // Average of the random numbers
     int average = sum / 50;
     std::cout << "Average = " << average <<std::endl;
 
